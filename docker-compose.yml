@@ -1,17 +1,33 @@
 version: '3.8'
 
 services:
-  db:
-    image: postgres:15-alpine
-    container_name: openfm-db
+  postgres:
+    image: postgres:16-alpine
+    container_name: openfm-postgres
     environment:
-      POSTGRES_USER: openfm
-      POSTGRES_PASSWORD: password123
       POSTGRES_DB: openfm
+      POSTGRES_USER: openfm
+      POSTGRES_PASSWORD: openfm
     ports:
       - "5432:5432"
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openfm -d openfm"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7.2-alpine
+    container_name: openfm-redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
   api:
     build:
@@ -21,9 +37,15 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - DATABASE_URL=postgresql://openfm:password123@db:5432/openfm
+      - DATABASE_URL=postgresql+asyncpg://openfm:openfm@postgres:5432/openfm
+      - REDIS_URL=redis://redis:6379/0
     depends_on:
-      - db
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ./:/app
 
   web:
     build:
@@ -36,6 +58,17 @@ services:
       - NEXT_PUBLIC_API_URL=http://localhost:8000
     depends_on:
       - api
+    volumes:
+      - ./apps/web:/app
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: openfm-pgadmin
+    ports:
+      - "5050:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@openfm.dev
+      PGADMIN_DEFAULT_PASSWORD: admin
 
 volumes:
-  pgdata:
+  postgres_data:

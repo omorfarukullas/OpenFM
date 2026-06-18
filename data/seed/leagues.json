@@ -1,12 +1,29 @@
 [
   {
-    "id": "eng-1",
-    "name": "English Premier League",
-    "country": "England"
+    "id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "total_matchdays": 38,
+    "current_matchday": 0,
+    "status": "pending"
   },
   {
-    "id": "esp-1",
+    "id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
     "name": "La Liga",
-    "country": "Spain"
+    "country": "Spain",
+    "season": 2026,
+    "total_matchdays": 38,
+    "current_matchday": 0,
+    "status": "pending"
+  },
+  {
+    "id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "name": "Bangladesh Premier League",
+    "country": "Bangladesh",
+    "season": 2026,
+    "total_matchdays": 18,
+    "current_matchday": 0,
+    "status": "pending"
   }
 ]

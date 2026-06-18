@@ -1,0 +1,452 @@
+[
+  {
+    "id": "02b18bbe-1c3d-4554-b39b-0004ae998a2d",
+    "name": "English Club 1",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 173000000,
+    "reputation": 8,
+    "is_user_club": false
+  },
+  {
+    "id": "9b018d53-bc1b-4424-88fb-7b6d6c258937",
+    "name": "English Club 2",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 24000000,
+    "reputation": 7,
+    "is_user_club": false
+  },
+  {
+    "id": "57de304b-c716-469b-913e-9f5f40fba390",
+    "name": "English Club 3",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 187000000,
+    "reputation": 9,
+    "is_user_club": false
+  },
+  {
+    "id": "25556303-e6ad-43b1-a359-acb88aee5753",
+    "name": "English Club 4",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 18000000,
+    "reputation": 12,
+    "is_user_club": false
+  },
+  {
+    "id": "adc0ca71-5ef1-4af2-8e6b-ac94cecd6777",
+    "name": "English Club 5",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 68000000,
+    "reputation": 16,
+    "is_user_club": false
+  },
+  {
+    "id": "1448e04a-aefd-4eb0-8fb6-be45f61942d4",
+    "name": "English Club 6",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 194000000,
+    "reputation": 15,
+    "is_user_club": false
+  },
+  {
+    "id": "c29cc804-958e-473c-b47f-db6aec90bbfc",
+    "name": "English Club 7",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 51000000,
+    "reputation": 13,
+    "is_user_club": false
+  },
+  {
+    "id": "6d74d0bf-cbcc-4615-822f-d15778e5c7fc",
+    "name": "English Club 8",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 142000000,
+    "reputation": 9,
+    "is_user_club": false
+  },
+  {
+    "id": "98f8d87a-34e7-42f0-b806-18ff19116c57",
+    "name": "English Club 9",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 130000000,
+    "reputation": 8,
+    "is_user_club": false
+  },
+  {
+    "id": "988a4297-d57a-450b-adde-a51825a2210f",
+    "name": "English Club 10",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 75000000,
+    "reputation": 11,
+    "is_user_club": false
+  },
+  {
+    "id": "bacd159c-c57f-4ff9-8683-d1c9afac495f",
+    "name": "English Club 11",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 194000000,
+    "reputation": 20,
+    "is_user_club": false
+  },
+  {
+    "id": "317d082d-42c8-4386-961a-8f7eab908857",
+    "name": "English Club 12",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 155000000,
+    "reputation": 16,
+    "is_user_club": false
+  },
+  {
+    "id": "370bc0cc-f5b2-41d6-8c1d-ff55df461f98",
+    "name": "English Club 13",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 21000000,
+    "reputation": 20,
+    "is_user_club": false
+  },
+  {
+    "id": "c94b1f84-5d91-4497-a510-8f87c700dd80",
+    "name": "English Club 14",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 44000000,
+    "reputation": 10,
+    "is_user_club": false
+  },
+  {
+    "id": "e81f2e7c-c39e-4503-9bea-a97a2c287935",
+    "name": "English Club 15",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 190000000,
+    "reputation": 11,
+    "is_user_club": false
+  },
+  {
+    "id": "54c1ccf5-a1ec-49c4-9fe1-8fc973d58b8c",
+    "name": "English Club 16",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 133000000,
+    "reputation": 15,
+    "is_user_club": false
+  },
+  {
+    "id": "b0aee3ec-10c1-491d-adb4-9bf6e3ea1ef8",
+    "name": "English Club 17",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 175000000,
+    "reputation": 17,
+    "is_user_club": false
+  },
+  {
+    "id": "00494e2a-0015-44da-9ec8-d6548f8b3935",
+    "name": "English Club 18",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 64000000,
+    "reputation": 6,
+    "is_user_club": false
+  },
+  {
+    "id": "1fc5b899-7a7c-447a-a592-b9c73db0233e",
+    "name": "English Club 19",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 177000000,
+    "reputation": 5,
+    "is_user_club": false
+  },
+  {
+    "id": "d75c0629-4e5c-4f99-a608-c68b3fa8e3c8",
+    "name": "English Club 20",
+    "country": "England",
+    "league_id": "2894c701-0426-48f4-8829-92cb187f7495",
+    "budget": 53000000,
+    "reputation": 5,
+    "is_user_club": false
+  },
+  {
+    "id": "1b931d79-e401-47a4-8474-60c1f8e14f9c",
+    "name": "Spanish Club 1",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 167000000,
+    "reputation": 13,
+    "is_user_club": false
+  },
+  {
+    "id": "83bff721-b88e-47e4-bccc-c93914ea5338",
+    "name": "Spanish Club 2",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 109000000,
+    "reputation": 5,
+    "is_user_club": false
+  },
+  {
+    "id": "0f1bf710-cc8d-4f09-b031-d74d00217138",
+    "name": "Spanish Club 3",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 169000000,
+    "reputation": 16,
+    "is_user_club": false
+  },
+  {
+    "id": "f5448f19-0a6e-45ee-97b0-ff2a4a2c45a7",
+    "name": "Spanish Club 4",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 37000000,
+    "reputation": 17,
+    "is_user_club": false
+  },
+  {
+    "id": "865a8223-0659-4b3b-b00e-e688b4789750",
+    "name": "Spanish Club 5",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 129000000,
+    "reputation": 7,
+    "is_user_club": false
+  },
+  {
+    "id": "1039f2a8-b3b0-4363-bf3b-e4c176ca5b51",
+    "name": "Spanish Club 6",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 65000000,
+    "reputation": 19,
+    "is_user_club": false
+  },
+  {
+    "id": "47c749a2-9958-41a0-bc07-501c27a59039",
+    "name": "Spanish Club 7",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 59000000,
+    "reputation": 12,
+    "is_user_club": false
+  },
+  {
+    "id": "183ed30f-034f-42f0-9bd6-82b585e3abe5",
+    "name": "Spanish Club 8",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 89000000,
+    "reputation": 19,
+    "is_user_club": false
+  },
+  {
+    "id": "915cbab9-d036-424f-8753-2e2e31f95388",
+    "name": "Spanish Club 9",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 121000000,
+    "reputation": 18,
+    "is_user_club": false
+  },
+  {
+    "id": "01addb02-2d27-4644-a739-e0792d70424e",
+    "name": "Spanish Club 10",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 142000000,
+    "reputation": 15,
+    "is_user_club": false
+  },
+  {
+    "id": "5a820636-b451-4d9f-b290-3c76c40d96cd",
+    "name": "Spanish Club 11",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 175000000,
+    "reputation": 16,
+    "is_user_club": false
+  },
+  {
+    "id": "e75270c2-9bbf-46aa-8425-b8371d2bf8cc",
+    "name": "Spanish Club 12",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 156000000,
+    "reputation": 14,
+    "is_user_club": false
+  },
+  {
+    "id": "778b7b48-ce06-4564-8f91-4d0321489d5e",
+    "name": "Spanish Club 13",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 151000000,
+    "reputation": 11,
+    "is_user_club": false
+  },
+  {
+    "id": "136ac17a-20d9-4e10-b013-84d78ccf7945",
+    "name": "Spanish Club 14",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 42000000,
+    "reputation": 20,
+    "is_user_club": false
+  },
+  {
+    "id": "d0459061-38df-47b2-a8cb-28168d549461",
+    "name": "Spanish Club 15",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 182000000,
+    "reputation": 19,
+    "is_user_club": false
+  },
+  {
+    "id": "80d05681-3874-42d8-92a5-35af3eb3cbcb",
+    "name": "Spanish Club 16",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 59000000,
+    "reputation": 18,
+    "is_user_club": false
+  },
+  {
+    "id": "f595586f-9db9-4fa3-aa57-44fcae019276",
+    "name": "Spanish Club 17",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 41000000,
+    "reputation": 13,
+    "is_user_club": false
+  },
+  {
+    "id": "73c790c7-ca8d-45d0-a7b7-89c63f240945",
+    "name": "Spanish Club 18",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 173000000,
+    "reputation": 16,
+    "is_user_club": false
+  },
+  {
+    "id": "f14476d5-3672-42a8-9f82-264b6858ae35",
+    "name": "Spanish Club 19",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 149000000,
+    "reputation": 15,
+    "is_user_club": false
+  },
+  {
+    "id": "eb7f50ec-3269-4eda-9963-0ef7eb2f8218",
+    "name": "Spanish Club 20",
+    "country": "Spain",
+    "league_id": "2389c35c-fbea-47a3-8422-97abe7b8b4dd",
+    "budget": 146000000,
+    "reputation": 12,
+    "is_user_club": false
+  },
+  {
+    "id": "82e96b37-6aeb-4cf5-bc67-7d2a2d109661",
+    "name": "Dhaka Warriors",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 91000000,
+    "reputation": 6,
+    "is_user_club": false
+  },
+  {
+    "id": "6ad68aba-cc3c-4830-8834-60fa46b4b298",
+    "name": "Chittagong Tigers",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 55000000,
+    "reputation": 10,
+    "is_user_club": false
+  },
+  {
+    "id": "b25ee6f1-1ef8-49d8-b892-60b5a38a08ea",
+    "name": "Sylhet Strikers",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 37000000,
+    "reputation": 2,
+    "is_user_club": false
+  },
+  {
+    "id": "1127b685-350f-4a78-82d7-361eecbbc069",
+    "name": "Rajshahi United",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 72000000,
+    "reputation": 10,
+    "is_user_club": false
+  },
+  {
+    "id": "20cb5485-b685-4d7e-8735-7827258b5dcc",
+    "name": "Khulna FC",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 25000000,
+    "reputation": 3,
+    "is_user_club": false
+  },
+  {
+    "id": "efb004ed-0234-4de5-a92d-b8d3214c7380",
+    "name": "Barisal City",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 169000000,
+    "reputation": 1,
+    "is_user_club": false
+  },
+  {
+    "id": "c5871849-dd87-4bdc-897a-a773f01ce72f",
+    "name": "Cumilla Athletic",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 99000000,
+    "reputation": 8,
+    "is_user_club": false
+  },
+  {
+    "id": "b3140f74-fbcd-4b97-a08a-b500eb0f001f",
+    "name": "Mymensingh FC",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 34000000,
+    "reputation": 9,
+    "is_user_club": false
+  },
+  {
+    "id": "c971de3d-b20d-43e2-ad01-c853c88e5d38",
+    "name": "Rangpur Rovers",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 189000000,
+    "reputation": 2,
+    "is_user_club": false
+  },
+  {
+    "id": "e72e9c9d-93c5-43dc-bfe7-68717b1f1282",
+    "name": "Narayanganj XI",
+    "country": "Bangladesh",
+    "league_id": "eef044cf-c18c-4c8e-8d0a-c21ef91eb29b",
+    "budget": 121000000,
+    "reputation": 5,
+    "is_user_club": false
+  }
+]

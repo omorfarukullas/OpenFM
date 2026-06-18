@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 255, 255, 255;
-  --background-start-rgb: 10, 15, 30;
-  --background-end-rgb: 0, 0, 0;
+  --foreground-rgb: 226, 232, 240;
+  --background-start-rgb: 3, 7, 18;
+  --background-end-rgb: 3, 7, 18;
 }
 
 body {
@@ -20,3 +20,31 @@ body {
   margin: 0;
   min-height: 100vh;
 }
+
+/* ── Scrollbar Styling ── */
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #1e293b transparent;
+}
+
+/* Chrome / Safari / Edge */
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1e293b;
+  border-radius: 999px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #334155;
+}
+
