@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eng-1",
+    "name": "English Premier League",
+    "country": "England"
+  },
+  {
+    "id": "esp-1",
+    "name": "La Liga",
+    "country": "Spain"
+  }
+]

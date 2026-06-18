@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: openfm-db
+    environment:
+      POSTGRES_USER: openfm
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: openfm
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    container_name: openfm-api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://openfm:password123@db:5432/openfm
+    depends_on:
+      - db
+
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+    container_name: openfm-web
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - api
+
+volumes:
+  pgdata:

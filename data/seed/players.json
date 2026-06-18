@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p-1",
+    "name": "Lionel Messi",
+    "age": 36,
+    "position": "Forward",
+    "rating": 90
+  },
+  {
+    "id": "p-2",
+    "name": "Erling Haaland",
+    "age": 23,
+    "position": "Forward",
+    "rating": 91
+  }
+]
